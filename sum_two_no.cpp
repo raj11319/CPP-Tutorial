@@ -11,3 +11,5 @@ int main (){
     
     return 0;
 }
+
+//this code prints the sum of two numbers
